@@ -18,7 +18,8 @@ reasons. Most of our solutions are cloud-aware, but definitely cloud agnostic.
 
 We do offer multi-channel technical or customer support services related to our software frameworks, platform APIs, products
 and/or services to paid subscribers through a [Global Support Centre](https://desk.yunica.co.in). It is accessible on a 24x7
-basis to the clients globally.
+basis to the clients globally. We engage with [Bhojpur Consulting](https://www.bhojpur-consulting.com), our strategic partner,
+for L3/L4 support services due to their technology platform underlying our retail solutions.
 
 ## Training Services
 
