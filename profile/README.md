@@ -3,7 +3,8 @@
 # [Hygienic, Affordable, Trustworthy.](https://www.yunica.co.in)
 
 We make web-scale, high-performance, retail software `products` (e.g. `applications`, `platforms`, `APIs`) and `services`
-targeting `decentralized` **digital enterprises** globally. We specialize in digital supply chain system integration.
+targeting decentralized **digital enterprises** globally. We specialize in Web3.0 based **digital supply chain**  system
+integration and distributed intelligence technology capabilities.
 
 ## Digital Retail Solution
 
@@ -21,7 +22,7 @@ basis to the clients globally.
 
 ## Training Services
 
-For easy technology adoption, we also provide __online__ [training](https://show.yunica.co.in.com) course delivery and managed
+For easy technology adoption, we also provide __online__ [training](https://show.yunica.co.in) course delivery and managed
 through our [Education Services](https://education.yunica.co.in) platform. These paid services are available to clients globally.
 
 ## Partnership Program
